@@ -113,9 +113,9 @@ currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
  <!-- ![Snake animation](https://github.com/adi10032003/adi10032003/blob/output/github-contribution-grid-snake.svg)   -->
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evil-queen28/evil-queen28/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evil-queen28/evil-queen28/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evil-queen28/evil-queen28/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adi10032003/adi10032003/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/adi10032003/adi10032003/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/adi10032003/adi10032003/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--  _generated with [Platane/snk](https://github.com/Platane/snk)_  -->
