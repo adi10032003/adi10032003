@@ -106,8 +106,8 @@ currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
 <h2> 👨‍💻 &nbsp;GitHub Stats</h2>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evil-queen28&theme=radical" alt="evil-queen28" />
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evil-queen28&theme=radical&langs_count=8&layout=compact"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi10032003&theme=radical" alt="adi10032003" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi10032003&theme=radical&langs_count=8&layout=compact"/>
 </p>
  
  <!-- ![Snake animation](https://github.com/adi10032003/adi10032003/blob/output/github-contribution-grid-snake.svg)   -->
