@@ -33,30 +33,29 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 ```yaml
-name: Aditya Singh
+name: Vedika Mandre
 located_in: Mumbai, India
 current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer",
-    "Bachelor's in Information Technology",
+    "Bachelor's in Computer Engineering",
   ]
-company: Remote/Freelancer
+company: Freelancer
 
 fields_of_interests:
   [
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "DevOps",
   ]
 technical_background:
   [
-    "Open Source Developer-GSSOC 2023"
-    "Tech lead-Devs dungeon"
+    "Intern - SWE Microsoft, India"
   ]
   
-currently_learning: ["MERN", "DevOps"]
+currently_learning: ["Mern Stack"]
+
 ```
   
 ---  
