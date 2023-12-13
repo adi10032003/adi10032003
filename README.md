@@ -12,7 +12,7 @@
 <!-- <a href="https://">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a> -->
-<a href="https://www.linkedin.com/in/harshjha02/">
+<a href="www.linkedin.com/in/adityasingh102003">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <!-- <a href="https://">
@@ -21,20 +21,14 @@
 <!-- <a href="https://">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a> -->
-<a href="https://twitter.com/rapid_killer_9">
+<a href="https://twitter.com/1dity12003">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/rapid_killer_9/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
 
 <p align="center">
-<a href = "mailto:hjha0695@gmail.com">
+<a href = "adityasingh99048@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="https://discord.com/users/769595307595005952" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a> 
 </p>
 
@@ -47,30 +41,29 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Harsh Jha
+name: Aditya Singh
 located_in: Mumbai, India
 current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer",
-    "Bachelor's in Computer Engineering",
+    "Bachelor's in Information Technology",
   ]
 company: Remote/Freelancer
 
 fields_of_interests:
   [
     "Web Development",
-    "Cyber Security",
     "Data Science",
     "Machine Learning",
     "DevOps",
   ]
 technical_background:
   [
-    "Intern - Cyber Security Trainee"
+    "Open Source Developer"
   ]
   
-currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
+currently_learning: ["Nodejs", "ReactJS","DevOps"]
 ```
   
 ---  
@@ -92,8 +85,6 @@ currently_learning: ["Cyber Security", "Next.js", "Web 3.0", "DevOps"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
