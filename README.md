@@ -62,7 +62,11 @@ technical_background:
   [
     "Open Source Developer"
   ]
-  
+  Certifications:
+[
+"Google certified associate cloud engineer",
+"Snowflake certified snowpro core developer"
+]
 currently_learning: ["Nodejs", "ReactJS","DevOps"]
 ```
   
